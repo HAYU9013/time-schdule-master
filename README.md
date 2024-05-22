@@ -1,6 +1,7 @@
 # Time Schdule Master 時間管理大屍
 
 - Build using
+
   - NodeJs
   - React
   - TypeScript
@@ -17,3 +18,5 @@
   - test: add testing code
   - add: add some not necessary things
   - remove: remove some file
+
+## 檢查不要傳機密的東西 e.g. API Key、密碼
