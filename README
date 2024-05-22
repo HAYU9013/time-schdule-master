@@ -4,9 +4,11 @@
   - NodeJs
   - React
   - TypeScript
+
 - Available Scripts
   `$ npm install`
   `$ npm start `
+
 - Commit Message Rule
   - feat: New feature
   - fix: Bug fix
